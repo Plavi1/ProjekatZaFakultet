@@ -1,0 +1,27 @@
+
+Student(na budzetiu): Nemanja Plavsic 
+Datum ispita: 18/01/2022
+Pocetni datum prijave ispita: 01/01/2022 
+Student prijavio ispit datuma: 01/01/2022
+Cena prijave: 1200rsd     
+
+
+                          OPSEG PRIJAVE
+
+           |-------|-------|---------------|---------------|
+          Pocetni  |    Krajnji         Krajnji          Datum
+          Datum    |    Datum           Datum            Ispita
+          Prijave  |    Prijave         Kasnjenja
+          Ispita   |    Ispit           Prijave
+                   |                    Ispita
+                   |
+                   |
+            Student usao na
+           servis i prijavio
+                 ispit
+
+                 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
